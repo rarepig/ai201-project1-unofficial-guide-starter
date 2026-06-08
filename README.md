@@ -2,7 +2,7 @@
 
 ---
 
-## Domain
+## Domain   
 
 This system covers student experiences with WGU Computer Science courses, including
 difficulty ratings, time estimates, study tips, and passing strategies shared on
@@ -11,6 +11,7 @@ completion time and difficulty vary widely between students, and official course
 descriptions provide no insight into what actually helps students pass. The real
 guidance lives in student posts — scattered across Reddit threads that are hard to
 search systematically.
+
 ---
 
 ## Document Sources
