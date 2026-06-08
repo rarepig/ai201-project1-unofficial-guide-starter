@@ -1,0 +1,245 @@
+D683
+D683 - Advanced AI and ML
+WGU D683 Advanced AI/ML Project - A Practical Guide Hey everyone, I recently completed WGU's Advanced AI/ML project and wanted to share some insights that might help others taking this course. The project consists of two tasks: a planning phase (Task 1) and an implementation phase (Task 2). Here's what I learned: Task 1: Planning Phase Task 1 requires you to complete two forms that outline your project: Topic Approval Form This form needs to be thorough and specific:
+
+Business Problem: Choose a practical problem that ML can solve. Keep it focused and achievable. SMART Goal: Be explicit about how your goal meets each SMART criterion. My evaluator was particular about seeing each element (Specific, Measurable, Achievable, Realistic, Time-bound) clearly addressed. Dataset: Describe your dataset in detail, including where it's from, its size, and most importantly, what the target column is. My evaluator specifically asked about this. Project Schedule: Create a realistic timeline with some buffer for unexpected issues. Risks: The format matters here. List each risk and its mitigation separately: Risk 1: [Description] Mitigation 1: [Strategy] I initially used a different format and had to resubmit.
+
+Release Form Simply indicate whether you're using proprietary information. Most projects won't need this. Task 2: Implementation Phase This is the more time-consuming part where you build your ML solution: Setup and Organization Create a well-structured project with directories for data, source code, and outputs. Use Git from the start and create a development branch - your commit history will be checked. The Six Required Components You need to implement and document these key parts:
+
+Data Preprocessing: Handle missing values, scale features, and split data appropriately. Document each decision you make. Model Building: Initialize several ML algorithms. I used three different classifiers to demonstrate knowledge of various approaches. Model Training: Train your models and save them. Watch out for file path issues between different operating systems. Model Evaluation: Calculate accuracy, precision, recall, and F1 score. Create visualizations to support your findings. Cross-Validation: Implement k-fold cross-validation and analyze the consistency of your models across different data splits. Hyperparameter Tuning: Use RandomizedSearchCV or GridSearchCV to optimize your models. Document the improvements achieved.
+
+README File Don't overlook the README requirements:
+
+Software requirements (Python version, libraries) Hardware specifications Clear instructions for running each component
+
+Practical Tips
+
+Work incrementally and test each script thoroughly before moving on Use absolute paths with os.path.join() to avoid compatibility issues Commit your changes after completing each major requirement Handle errors gracefully in your code with informative messages Pay attention to the formatting of your output files and visualizations
+
+One of the biggest challenges I faced was ensuring that my data preprocessing was consistent throughout the pipeline. Make sure your column names and data types are handled correctly from the start. Hope this helps those of you working on this project. Feel free to ask questions if you need clarification on any part of the process.RetryTNow give me some resources to aide in thisEditHelpful Resources for WGU D683 Advanced AI/ML Project To complement the practical guide for WGU's Advanced AI/ML project, here are some valuable resources that helped me succeed: Learning Resources
+
+Scikit-learn Documentation https://scikit-learn.org/stable/documentation.html Essential reference for implementing all ML algorithms and techniques required in this project. Towards Data Science - Machine Learning Workflows https://towardsdatascience.com/ Great articles on preprocessing, evaluation metrics, and hyperparameter tuning. Kaggle Notebooks https://www.kaggle.com/notebooks Search for notebooks related to your chosen dataset for preprocessing and modeling examples. WGU Knowledge Center: GitLab Environment This internal resource provides specific instructions for setting up your WGU GitLab project.
+
+Dataset Repositories
+
+UCI Machine Learning Repository https://archive.ics.uci.edu/ml/index.php Excellent source of well-documented datasets for various ML problems. Kaggle Datasets https://www.kaggle.com/datasets Large collection of datasets with existing examples and discussions. Google Dataset Search https://datasetsearch.research.google.com/ Helpful for finding specialized datasets if you have a specific domain in mind.
+
+Implementation Tools
+
+PyCharm Community Edition - I used this.
+
+Pandas Cheat Sheet https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf Essential for data preprocessing tasks. Matplotlib & Seaborn Gallery https://matplotlib.org/stable/gallery/index.html https://seaborn.pydata.org/examples/index.html Examples for creating evaluation visualizations.
+
+Video Tutorials
+
+StatQuest with Josh Starmer https://www.youtube.com/c/joshstarmer Excellent explanations of ML concepts, cross-validation, and hyperparameter tuning. Corey Schafer's Python Tutorials https://www.youtube.com/c/Coreyms Great for Python programming fundamentals and environment setup. sentdex Machine Learning Tutorials https://www.youtube.com/c/sentdex Practical ML implementations from scratch.
+
+
+Upvote
+24
+
+Downvote
+
+9
+Go to comments
+
+
+Share
+u/OutlierAI_Official avatar
+OutlierAI_Official
+•
+Promoted
+
+Earn up to $50 USD per hour. Fully remote. Free model usage.
+Apply Now
+outlier.ai
+Thumbnail image: Earn up to $50 USD per hour. Fully remote. Free model usage.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+techwiz3
+•
+1y ago
+Brilliant breakdown mate, this is pure gold for anyone tackling D683. Love that you stressed consistent preprocessing - so easy to overlook early and pay for it later.
+Quick question: during your hyperparameter tuning, did you find RandomizedSearchCV enough, or was GridSearchCV actually worth the extra time on some models?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Helicopter5041
+OP
+•
+1y ago
+Thank you :) In my experience, RandomizedSearchCV was absolutely sufficient for this project. Here's why:
+
+For the models I used (Random Forest, SVM, and Gradient Boosting), a full GridSearchCV would have taken hours to run with even modest parameter grids. RandomizedSearchCV with about 20-30 iterations consistently found good parameters in a fraction of the time (minutes instead of hours).
+
+That said, there's a smart approach I'd recommend:
+
+Start with RandomizedSearchCV using broader parameter ranges
+
+Note which parameter values perform best
+
+If time permits, run a focused GridSearchCV around those promising values
+
+For Random Forest and Gradient Boosting, RandomizedSearchCV alone gave me a 2-3% accuracy boost. The SVM showed less improvement, but that's model-dependent.
+
+One tip: set the "verbose" parameter to 1 in RandomizedSearchCV so you can watch the progress and get a feel for how different parameters affect performance.
+
+For this particular project, the time-accuracy tradeoff definitely favored RandomizedSearchCV. The evaluators are more interested in your methodology than squeezing that last 0.5% of performance out of your model (I’d imagine lol).
+
+Hope that helps!​​​​​​​​​​​​​​​​
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/According_Meat_660 avatar
+According_Meat_660
+•
+1y ago
+First of all, thank you so much for the resources!! Quick question though, what did it mean by Clear Instructions for running each component? Isn't it very similar to D682 in the sense of the code so what instructions are we supposed to add?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Helicopter5041
+OP
+•
+1y ago
+Honestly, I’m not too sure. I dont think I had to talk through it or give instructions when I submitted it. I’d just try to submit something and see what happens. Even talking with the professors I did not get clear cut answers at times, but maybe try that as well.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+averyycuriousman
+•
+1y ago
+can we use any idea for the project? How did you come up with your idea for what to build?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Ok_Mathematician7440 avatar
+Ok_Mathematician7440
+•
+1y ago
+Find a kaggle dataset that you find interesting. Id probably avoid the most common kaggle sets since you will be more likely to be doing the exact same thing as someone else. As long as it solves a business problem and is approved by your instructor, you are good.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+No-Helicopter5041
+OP
+•
+1y ago
+Exactly what I did
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Aggravating-Rip7188
+•
+1y ago
+Thanks so much for posting this!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+taeyon_kim
+•
+1y ago
+Are we allowed to put this project on resume / portfolio for public viewing?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

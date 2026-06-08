@@ -1,0 +1,398 @@
+I Defeated The Beast! (C952)
+C952 Computer Architecture
+r/WGU_CompSci - I Defeated The Beast! (C952)
+They really weren't kidding about this class.
+
+This took me a month to complete, and it wasn't easy.
+
+I used the Quizlets and watched the webinar series, along with listening to NotebookLM-generated podcasts to help me break down difficult concepts. The Zybook is SO dry and ...ugh. The chapter 4 labs are good, though. I got through as much of the Zybook as I could (I gave up by chapter 7 haha), and I just reviewed the content explorer instead for the rest of the vocabulary.
+
+I passed the PA, but I had to review a few sections that I was weak on. I honestly wasn't sure if I had passed the OA. I had to make an educated guess on several questions.
+
+If you really focus on the vocab and understand the concepts, not just memorize them, and work on the computational problems, you should be golden. :D
+
+
+Upvote
+66
+
+Downvote
+
+21
+Go to comments
+
+
+Share
+u/ColumbiaSouthernU avatar
+ColumbiaSouthernU
+•
+Promoted
+
+Your degree shouldn’t come with sticker shock. Compare costs and see the CSU difference.
+Learn More
+columbiasouthern.edu
+Thumbnail image: Your degree shouldn’t come with sticker shock. Compare costs and see the CSU difference.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+NotChikcen
+•
+2mo ago
+You had PA and oa? I only knew of the oa for that class I just passed it like a month ago. Also congrats I hated that class so much 🤣
+
+Edit:oh PA probably means practice huh
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+Oh, I meant pre-assessment. I see some people abbreviate it as PA but I forgot that could be confusing lol. I didn’t mind the subject matter, but I don’t like how this class is structured. I mentioned that in the survey.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/breezy_13 avatar
+breezy_13
+•
+2mo ago
+I take it on Friday. I feel the same as you did, kind of up in the air if I'll pass. This course has been very long at about 5 weeks now for me. I did DM2 in two weeks. Just kinda shows how much it varies per person. There's just so much material in this course.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+IMHO, I think they should have split it into two courses. They did for discrete math so I don’t see why it wouldn’t work.
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/xtal303 avatar
+xtal303
+•
+2mo ago
+Agree with this. It's not super hard content, it's just a huge amount of content, especially the later chapters.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Virtual-Dentist3780 avatar
+Virtual-Dentist3780
+•
+2mo ago
+agreed and they also updated OS, so idk why they couldn't revamp CA too
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Annual-Screen-5497 avatar
+Annual-Screen-5497
+•
+2mo ago
+Harder than DM2 you'd think? Currently working on dm2, it's not bad just content heavy imo
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+I think it’s hard because 1. It’s content heavy and 2. You can’t really anticipate what will be asked on the OA. I studied all of the historical information in the text and I can only remember ONE question on the OA about it. So as far as the actual content? No it’s not as difficult as DM2 (which was a bear, too).
+
+I’m just glad I passed. 😂
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Annual-Screen-5497 avatar
+Annual-Screen-5497
+•
+2mo ago
+That makes a lot of sense. Just wanted to see your insight because I haven't done that class yet. Congrats on passing I'm sure it gets easier for you now 🙏
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/coursera avatar
+u/coursera
+•
+Promoted
+
+Advance your skills in artificial intelligence with training from Google. Learn to think critically and use AI to improve operational efficiency and security.
+Learn More
+coursera.org
+Thumbnail image: Advance your skills in artificial intelligence with training from Google. Learn to think critically and use AI to improve operational efficiency and security.
+u/xtal303 avatar
+xtal303
+•
+2mo ago
+Congrats!!! I am going through this monster right now. Based on your experience, does the consolidated list of chapters and sections from the course home page under resources align with the OA content? I ask because that list does not include all chapters and I'd hate to follow their list and find out you needed to study for more.
+
+EDIT: For example, the appendices aren't listed in the consolidated list. I've seen posts that say you should study those.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+I didn't read the appendices, either. There was a generic question about RISC architecture, so I would just focus on any generalized info about that. On the consolidated list, they mentioned "for all chapters, read the Real Stuff, Fallacies & Pitfalls, Concluding Remarks. It is strongly encouraged to make note of dates and associated events; as in the pre-assessment, you will probably see some questions having to do with dates or period in technology history." As I mentioned in another comment, my version of the OA only had one or two questions covering this, but I've heard other students say theirs had several questions on history. I tried to get an overall picture of technology history, and didn't stress too much on it. The rest of the vocab and the math are what's most important.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Euphoric_Potato8448 avatar
+Euphoric_Potato8448
+•
+2mo ago
+Congrats! I have to take it by the end of the month but I don't feel ready at all. This is the hardest class so far. Does OA have a lot of low-level questions where you're literally reading assembly or tracing through pipeline diagrams, or is it more higher level concepts?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+I didn’t have any diagrams but there were some pipeline questions, along with some assembly code.
+
+I would advise you practice reading code such as Python or C and translate it into assembly. I can’t remember if that was on the PA or OA but it’s worth doing 2 or 3 of those types of questions. I asked Claude to write a simple calculation program and quiz me on how to convert it to assembly code.
+
+I also don’t know how many versions of the OA there are, but I assume they pick from a large pool of questions. Hopefully you’ll get a reasonable exam lol. Don’t sweat the assembly code (it’s not bad as long as you did the practice labs) and make sure you get the vocab down pat. I think out of 60 questions I had about 8 math problems and 4 or 5 assembly code questions.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Euphoric_Potato8448
+•
+2mo ago
+u/maybe9805 avatar
+maybe9805
+•
+2mo ago
+•
+Edited 2mo ago
+.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+_DarkRaeven
+OP
+•
+2mo ago
+I tried using any quizlet that had the most terms, so there were several. I mostly studied from these two sets. Quizlet- C952 and Quizlet 2.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+OlympicGorilla
+•
+2mo ago
+I fucking hate this course with all my heart. I’m STILL on it, I failed twice and to take my third I had to go through retaking the PA, scheduling appointments for teach back, doing worksheets and having over 90% completion of the zybooks. It’s been hell I’m ngl, and now I’m technically cleared to take the OA again but I’m too scared to actually schedule/take the assessment. This whole process just made it worse tbh.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Virtual-Dentist3780 avatar
+Virtual-Dentist3780
+•
+2mo ago
+•
+Edited 2mo ago
+congrats!! this course was so ass, bro. I passed on my third attempt and the material wasn't even bad, but it was just so much that I didn't even know what to study. The first attempt was my fault cause i didn't study as hard as I should've, but the second and third attempts I tried my best and i remember going "oh damn ok.. this is rough". The computational problems weren't bad either but on the OA they were different than anything on the worksheets/examples. I had to pull a "jesus take the wheel' moment on the third attempt and basically chose the answer that was closest to what I got on my calculator. I hope they can update the course for future students.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+dylanosaurus_rex
+•
+2mo ago
+I’m in this class now. On the tail end of chapter 6 in the Zybook. I’m… going cross-eyed at this point. I usually don’t mind dry materials as I’m aiming to get into graphics programming, but without any sort of “learn the do” loop… it’s just a slog. 
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

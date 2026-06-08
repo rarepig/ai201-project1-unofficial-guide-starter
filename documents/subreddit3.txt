@@ -1,0 +1,167 @@
+Just passed D427 my thoughts
+D427 Data Management - Applications
+r/WGU_CompSci - Just passed D427 my thoughts
+I just passed the OA for D427 Data Management - Applications with almost a perfect score. I found it was a pretty natural extension of D426, but it really made sure you knew syntax well, especially on complex queries. I studied for around 15 hours to pass, with no prior SQL before D426.
+
+My main tip would be, once you finish ALL of the ZyBooks labs, install MySQL and start practicing in Workbench in your own environment. I used Gemini to make practice scenarios for me based off of the ZyBooks labs, and it helped tremendously!
+
+Anyways, onto the next and happy coding!
+
+
+Upvote
+18
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+u/squarespace avatar
+squarespace
+•
+Promoted
+
+YSK: Your business deserves a better website. Build it with AI today.
+Sign Up
+squarespace.com
+Thumbnail image: YSK: Your business deserves a better website. Build it with AI today.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Practical_Syrup6953
+•
+4mo ago
+D427 is like a nice victory lap after d426. Lots of good info in the supplementary materials as well on WGU Connect, particularly for joins and composite types.
+
+Congrats!
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Altruistic_Gold4835 avatar
+Altruistic_Gold4835
+OP
+•
+4mo ago
+Thank you!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Swimming_Gain_4989
+•
+4mo ago
+How difficult was the OA relative to the PA? I know SQL pretty well and can handle joins, common aggregate functions, and triggers. Mainly worried about obscure knowledge like rarely used datatypes or custom ID incrementation
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Altruistic_Gold4835 avatar
+Altruistic_Gold4835
+OP
+•
+4mo ago
+I’d say that if you can handle the questions on the PA and he exemplary, it’s a pretty good indication you’ll pass the OA. At least the version I got focus on the main syntax, SELECT, JOIN, CREATE etc
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vexlix
+•
+4mo ago
+I'd also recommend https://sqlbolt.com/
+
+I found it very useful for practice.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/OddPenguin1107 avatar
+OddPenguin1107
+•
+4mo ago
+Thanks for sharing concrete study tips instead of just I passed. Posts like this actually help people plan instead of panic
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+zacky2004
+•
+4mo ago
+solid advice
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

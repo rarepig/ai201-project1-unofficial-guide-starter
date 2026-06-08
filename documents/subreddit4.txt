@@ -1,0 +1,368 @@
+Passed my first WGU course - Practical Applications of Prompt - D685. My review and thoughts.
+r/WGU_CompSci - Passed my first WGU course - Practical Applications of Prompt - D685. My review and thoughts.
+There is not a lot of info about this course on this sub yet so I am posting to help out future students and share my experience.
+
+I came in with no specialized AI knowledge and no formal IT background, just general nerdy curious person knowledge and probably a couple hours of messing around with Chat-gpt in the past.
+
+The pre-assessment and course materials' quiz and test questions prepared me well for the OA. I started the course by jumping into the pre-assessment blind and passed with barely competent in each competency. After that I read the course materials, consulting the pre-assessment report to make sure I focused on my weakest areas. The materials are pretty easy reading, and a lot of the content felt like common sense so I was able to move through it quickly. I took most of the quizzes and tests in the materials, and found lots of those questions familiar from the pre-assessment. The OA was easy after reviewing all that material. Of the 50 multiple choice questions I revisited 5 or 6 before submitting. I recommend careful reading of the questions even if you are confident of the answer. For example, I got tripped up by the difference between "speech recognition" and "voice recognition" and the different-but-similar prompt refinement techniques.
+
+Overall, I consider this class to be easy and I learned a bit about LLMs and image generating tools. I spent about 6 hours working on the course.
+
+Comment with any questions you have for me about this course!
+
+
+Upvote
+28
+
+Downvote
+
+17
+Go to comments
+
+
+Share
+u/AmericanExpress avatar
+AmericanExpress
+•
+Promoted
+
+Learn about the Disney Benefit with the Blue Cash Preferred® Card. Terms apply.
+Learn More
+americanexpress.com
+Thumbnail image: Learn about the Disney Benefit with the Blue Cash Preferred® Card. Terms apply.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+damarisrodri
+•
+1y ago
+So the only resource that you used to study was the material course and the pre-assessment right?
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ParsleySageRT avatar
+ParsleySageRT
+OP
+•
+1y ago
+Yeah that's all I used. I may have googled a term for definition when reviewing the pre-assessment report but honestly the class was very straightforward and I didn't find a need for outside help.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+mrkyngg
+•
+1y ago
+Thanks for this! I originally was going to take this in the beginning but decided to bundle all the AI classes towards the end.
+
+I did take intro to CS and system thinking class as my first WGU classes that were new to the program. D684 can be done in less than a week if you have previous experience(I posted about it on this subreddit); D459 was pretty easy as well. it is the same thing as D372 in BS in SWE with plenty of threads on how to complete it.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ParsleySageRT avatar
+ParsleySageRT
+OP
+•
+1y ago
+Thank you for the tips on the other classes! If you are accelerating and have a few days left in a term I think D685 would be a good course to knock out in a day if your mentor will allow it.
+
+I just finished D684 and am about to post my experience. I read your post before scheduling my OA for that and your review gave me confidence that my score on the pa was indicative that I was ready. I don't have D459 in this term yet, but I appreciate the info for the future!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/EducationalMotor4116 avatar
+EducationalMotor4116
+•
+1y ago
+Hey, which one you thought was harder this course or intro to computer science?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ParsleySageRT avatar
+ParsleySageRT
+OP
+•
+1y ago
+Intro to CS was harder but neither of these classes was very difficult IMO. This class (prompt) was probably more intuitive and I think if a student is familiar with using a genai chat bot that they could cruise through it with just a few hours of study.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+The_RedWolf
+•
+1y ago
+I got this waived when I switched and it annoys me because it feels like it was an important course
+
+Was there any supplemental resources that can be linked here?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+satinflame
+•
+1y ago
+I'm working through this course now, and it does reference a few Pluralsight courses if you're interested in looking more there. I like the one from Amber Israelsen as she has good humor, and I feel she explains things well https://app.pluralsight.com/library/courses/getting-started-prompt-engineering-generative-ai/table-of-contents
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/lucid-software avatar
+u/lucid-software
+•
+Promoted
+
+Need a faster way to visualize ideas, systems, and processes? Use AI in Lucid to jump-start brainstorming and generate diagrams automatically.
+Learn More
+lucid.co
+Thumbnail image: Need a faster way to visualize ideas, systems, and processes? Use AI in Lucid to jump-start brainstorming and generate diagrams automatically.
+DealRight
+•
+8mo ago
+How was it taking it with a proctor?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Observer45678 avatar
+Observer45678
+•
+5mo ago
+I did not like this class. it took me three times to pass the OA due to wording confliction and no help from the staff
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Born_Cantaloupe691 avatar
+Born_Cantaloupe691
+•
+4mo ago
+This is my issue too. I failed one time and Noone seems to want to help they keep telling me use ava Ai. Did you pass it yet? If so what got you thru it?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/august_fellthru avatar
+august_fellthru
+•
+3mo ago
+If you made it through, what did you do?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/august_fellthru avatar
+august_fellthru
+•
+3mo ago
+It's so dumb, and I can't decide if it's the OA or WGU lol...first day, passed the PA, second day..cruised through the material and the two practice tests in the course, retake PA with better marks, next day go to take the OA and bombed it...it's very infuriating...
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Tasty_Application324 avatar
+Tasty_Application324
+•
+26d ago
+Interesting. How'd it end up going after that?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/AssumptionPlane9449 avatar
+AssumptionPlane9449
+•
+24d ago
+Passed this class by using the D685 WGU Study Guide and reading the textbook on sections I was confused on. I have no IT experience and this class was the easiest I've taken so far.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ClearChampionship592 avatar
+ClearChampionship592
+•
+21d ago
+I'm having a hard time locating the study guide. Can you send a link for the study guide
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/AssumptionPlane9449 avatar
+AssumptionPlane9449
+•
+18d ago
+Ask your instructor to send it to you - it's called "D685 Comprehensive Study Guide 4"
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

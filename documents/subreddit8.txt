@@ -1,0 +1,365 @@
+🎯 WGU D682 Guide - Task 1 - AI Optimization
+D682 - AI Optimization for Computer Scientists
+Done in 3 Weeks
+TL;DR: Completed D682 in 3 weeks with zero revisions. I have no data science background, or machine learning. Machine learning seemed like this super cryptic concept. But it's the same as using any library - just documentation reading and googling.
+
+The course is vague but is more complex on the writing side than the programming side. If you struggle this class could easily take a month or more, but if you are persistent and use your resources well, it isn't that bad at all.
+
+(This is not a comprehensive guide, I just wanted to fill in some of the details I thought were missing from the tasks)
+
+📝 Files Submitted
+Task 1:
+
+GitLab link
+
+GitLab graph PNG
+
+Write-up (.docx)
+
+Include evaluator notes specifying "Task1" branch instructions, Python requirements.txt location, and entrypoint file
+
+Task 2:
+
+GitLab link
+
+GitLab graph PNG
+
+Write-up (.docx)
+
+Include evaluator notes specifying "Task2" branch instructions, Python requirements.txt location, and entrypoint file
+
+Task 3:
+
+Single PDF export of report
+
+Task 4:
+
+Single PDF export of report
+
+💡 Evaluator Communication Tip: Always include clear instructions for running your code in the submission notes. Make their life easy!
+
+📋 "Narrative Report" Format
+WGU doesn't provide templates, but every task requires a document in "narrative format." Here's the format I used:
+
+[Descriptive Title]
+
+Introduction (2-3 sentences)
+Brief overview of what you're covering
+
+A1
+Your response in paragraph format addressing A1
+
+A2
+Your response addressing A2 (add transitions as needed)
+
+[Continue for all rubric points A3, B1, B2, etc.]
+
+Sources
+APA format citations (minimum 1 recommended)
+🚀 Getting Started
+Environment Setup:
+
+No hard language requirements, but you'll definitely use Python
+
+I used VSCode + Jupyter notebooks, then converted to single Python scripts
+
+Make everything as simple as possible for evaluators to run
+
+Google for Python/Jupyter setup if needed
+
+Dataset Preparation:
+
+Read the case study for context (this and the dataset are used across all the tasks)
+
+Download the Excel file
+
+Split into 2 CSV files (one for each tab: data + feature descriptions)
+
+(I just like the features handy in the ide so I don't have to keep the excel doc open)
+
+Target Variable Choice:
+
+The case study mentions air quality and weather but doesn't specify what to predict
+
+I used healthRiskScore as my target variable with all other columns as features
+
+Some students think they need multiple models - I only predicted healthRiskScore and it worked fine
+
+Task 1: Initial Model Implementation
+I wasted a ton of time optimizing and messing with metrics when it just isn't required for this task, you will need it eventually, but really focus on minimalism in all the code for this task. You don't need a lot. My file was like 40 lines of code with 30 of those being comments or empty.
+
+Part A: GitLab Setup
+
+Set up your GitLab repository (You should know by this point in the degree)
+
+The rest is just detailing submission requirements
+
+Part B: Research & Algorithm Selection (The Writeup)
+
+Research 3 AI algorithms suitable for the optimization problem/case study (Just some supervised regression or similar)
+
+Look into sklearn module for options
+
+Just follow the task for this section
+
+Don't need anything too fancy, just something accessible and easy to explain.
+
+Part C: Implementation (The Code)
+
+Create a "Task1" branch in your repo
+
+Add dataset file and Python script
+
+Important: Don't optimize, clean data, or engineer features yet - save that for Task 2
+
+Choose an easy sklearn model (like RandomForestRegressor)
+
+Basic code structure:
+
+Load data
+
+Split target (healthRiskScore) and features
+
+Split training/testing data with train_test_split
+
+Create model from sklearn
+
+Train with .fit()
+
+Add comments explaining your code
+
+Commit and push as single commit for C1/C2 (DON'T add metrics yet)
+
+Part D: Testing & Validation
+
+Choose 2 evaluation metrics (RMSE, R², accuracy, f1, accuracy, etc)
+
+Important: You'll need to explain these metrics in like EVERY task - pick ones you understand well
+
+Add metrics to your code and print results to console
+
+Commit and push as single commit for D2/D3
+
+For your narrative report:
+
+D1: Explain why you chose your 2 metrics
+
+D2: List your metric results (bullet format, not paragraphs)
+
+D3: Interpret the results - what do they mean for the EPA's requirements?
+
+Don't overthink this - just connect your results to the problem and conclude on model performance
+
+Part E: Citations
+
+Add in-text citations to your narrative report
+
+Best place: Part B when describing your 3 algorithms
+
+Find a paper about one of your models and cite it when introducing the algorithm
+
+Don't overthink - just support one sentence with a citation
+
+💡 General Tips
+Grammarly is Your Friend:
+
+Run your report through Grammarly for Education (found in "Preparation" tab)
+
+Accept every recommendation - no reason not to do this
+
+AFTER UPLOADING YOUR DOC WAIT FOR SIMILARITY REPORT
+
+it'll show you if whatever you are using to help you write is doing too good a job, or you are accidentally paraphrasing someones work
+
+Sources Are Required:
+
+Critical: I've seen people get kicked back for not having any sources
+
+Minimum 1 source required, include at least 1 in-text citation + reference list
+
+Don't overthink: Write your doc first, then find a source to support one sentence
+
+Use online citation tools for APA formatting (5-10 extra minutes vs 3-day resubmission)
+
+USE EXTERNAL RESOURCES, DON'T RELY SOLELY ON COURSE CONTENT OR EVEN AT ALL ON COURSE CONTENT.. what is machine learning, what is model... google it, perplexity it
+
+This guide covers Task 1, and is taking longer than expected. If you want me to break down Tasks 2, 3, or 4, or need more specifics on any section, drop a comment below! (I Obviously used AI to format this sucker, hopefully it's not too slop-py)
+
+
+Upvote
+19
+
+Downvote
+
+8
+Go to comments
+
+
+Share
+u/otterai avatar
+otterai
+•
+Promoted
+
+Otter.ai: Your AI meeting assistant. Records audio, captures notes, & generates summaries.
+Learn More
+get.otter.ai
+Thumbnail image: Otter.ai: Your AI meeting assistant. Records audio, captures notes, & generates summaries.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/mofo_mofo_ avatar
+mofo_mofo_
+•
+10mo ago
+Great write-up! I'm just starting this class so thank you!!
+
+Just curious - Why did you use VSCode? I used PyCharm for C950 and thought it was great! I was planning on using it for this class... Do you know if PyCharm falls short on anything like frameworks? Or was VSCode just your personal preference?
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TheBrostash avatar
+TheBrostash
+OP
+•
+10mo ago
+I use VSCode for everything, just a personal preference. I would stick to PyCharm if you have experience. Going to VSCode will just be a bit more complication for not much benefit.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/mofo_mofo_ avatar
+mofo_mofo_
+•
+10mo ago
+Awesome, thank you! I used VSCode for the C++ course, IntelliJ for the java courses, and PyCharm for the python course. So really I just have a little experience with each of them... I've been liking JetBrains so far though, so I'll give it a shot! Good luck with the rest of your classes!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/AlterEgo599 avatar
+AlterEgo599
+•
+10mo ago
+Nice work! Although I literally passed the course yesterday 😂
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TheBrostash avatar
+TheBrostash
+OP
+•
+10mo ago
+Anything crucial I missed?
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/AlterEgo599 avatar
+AlterEgo599
+•
+10mo ago
+I don’t think so. Taking this course without a guide was not easy, but I also never had any tasks sent back. It took me about a month to finish this course because of burn out —only two more classes left!
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+trashijordii
+•
+4mo ago
+Helped a bunch. Thank you!
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+VeryConfusedKitty
+•
+8mo ago
+Amazing, thank you so much! I'd love to see your guides for the other tasks. Did you end up making them?
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

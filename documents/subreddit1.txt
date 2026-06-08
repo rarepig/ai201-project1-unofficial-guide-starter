@@ -1,0 +1,867 @@
+FINISHED in 3 terms/15 months and job offer before graduation: course and job stats
+r/WGU_CompSci - FINISHED in 3 terms/15 months and job offer before graduation: course and job stats
+Hi all!
+
+Finally finished my degree a few weeks ago and wanted to make a follow up post from here. I was too lazy to post a follow up after the 2nd term. Review my previous post to see background and context and methods.
+
+This is a write up summarizing descriptive stats on how long each class took to complete as well as my difficulty rating. I've included data for all 3 terms, stats on job applications, and the final job offer. Jump to the RESULTS section to get straight to it.
+
+BACKGROUND UPDATE
+As you may notice, my speed drastically decreased during the 2nd and 3rd term and I was unable to complete the program in 2 terms as per my original goal. Honestly, I got burnt out during the 2nd term and was probably dealing with untreated depression and experienced a long term relationship break up and was unemployed for half of term 2 and all of term 3 (6 months total). I also moved twice during that term. So it was rough.
+
+Otherwise, I did not get any internship experience during this time and thus did not have any professional experience to add to my resume. The only experience I had on my resume were a few of the WGU projects.
+
+RESULTS
+TERM 1
+
+COURSE / TITLE	TOTAL STUDY TIME (hrs)	DIFFICULTY (out of 5)
+D322 - Introduction to IT	9	1
+D315 - Network and Security- Foundations	11.5	2
+D278 - Scripting and Programming - Foundations	12	2
+D426 - Data Management Foundations	11.5	2
+C958 - Calculus I	95.15	4
+D276 - Web Development Foundations	8	1
+C867 - Scripting and Programming - Applications	29.5	3
+C959 - Discrete Mathematics I	52.5	3
+D197 - Version Control	4.65	1
+D427 - Data Management- Applications	11.5	1
+D286 - Java Fundamentals	18.25	2
+D287 - Java Frameworks	23.5	3
+D430 - Fundamentals of Information Security	11.16	2
+D288 - Back-end Programming	26	4
+D387 - Advanced Java	20.9	3
+D326 - Advanced Data Management	14	2
+TERM 2
+
+COURSE / TITLE	TOTAL STUDY TIME (hrs)	DIFFICULTY (out of 5)
+Computer Architecture	43.75	4
+Linux Foundations	37.5	2
+Operating Systems for Programmers	60.45	4
+Data Structures and Algorithms I	27	2
+Discrete Math II	71	3
+Business of IT -- Applications	7	1
+Software Engineering	20.75	2
+Data Structures and Algorithms II	65.5	4
+IT Leadership Foundations	6.6	3
+TERM 3
+
+COURSE / TITLE	TOTAL STUDY TIME (hrs)	DIFFICULTY (out of 5)
+Software Design and Quality Assurance	49.5	2
+Introduction to AI	14.1	2
+Computer Science Capstone	28	3
+OVERALL STATS
+
+TERM	CLASSES/CREDITS	TOTAL HOURS STUDIED	TOTAL DAYS	AVERAGE TIME STUDYING PER DAY	DAYS MISSED
+1	16/51	359.11	167	2.15	1
+2	9/32	339.55	168	2.02	11
+3	3/10	91.6	82	1.12	14
+TOTAL	28/93	790.26	417	1.90	26
+JOB APPLICATIONS
+
+r/WGU_CompSci - 133 applications sent during period of around 1.5 years
+133 applications sent during period of around 1.5 years
+TC: 95k base + 6k relocation bonus = 102k
+
+Role: implementation consultant
+
+Technologies: .NET--VB or C#, SQL
+
+Offer received ~ 1 month before graduation. Offer contingent on graduation.
+
+Resume below that got me the job offer
+
+r/WGU_CompSci - FINISHED in 3 terms/15 months and job offer before graduation: course and job stats
+DISCUSSION
+Oof. Gotta say the last half of the program was rough. Not necessarily in difficulty, but I've just mentally been in a bad place. Although, OS and comp architecture were definitely challenging. DSA2 wasn't as difficult but it did take me a lot of time since I was stuck for a while. For reference, I have an associates in exercise science, a bachelors in biology, and also a doctorate in physical therapy. I'd rate organic chem I and II and genetics as 5/5 difficulty. These classes might be more comparable in difficulty to neuroscience. I was also able to pass all OAs on the first attempt and never met with any instructors. Overall, I found the program relatively easy compared to my biology and PT degrees, but I attribute that to 1) my mind works better with concepts and logical thinking than rote memorization, 2) it is far easier to take an exam with the intention to pass a certain threshold than it is to try to get the best grades possible.
+
+As for the job applications, I feel incredibly lucky to get an offer in the current state of affairs, especially considering I didn't put nearly as much effort into sending job applications and studying leetcode as many others. It's not a pure developer job but I'm fine with that.
+
+Anyways, thanks to everyone in this sub and the discord! It is thanks to the many guides in this community that I was able to get through most of these courses. Good luck to everyone completing the degree and on the job search! Feel free to ask any questions.
+
+
+Upvote
+160
+
+Downvote
+
+66
+Go to comments
+
+
+Share
+u/shopify avatar
+shopify
+•
+Promoted
+
+An online store you can build without code. A checkout that converts better than the rest. Win win.
+Sign Up
+shopify.com
+Clickable image which will reveal the video player: An online store you can build without code. A checkout that converts better than the rest. Win win.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+ajunDev
+•
+1y ago
+Man congrats looks like the hard work paid off. I’m looking to graduate this May and hopefully get a job as well. Wondering if you mind posting your resume for us to see if possible?
+
+
+
+Upvote
+17
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Thank you! And good luck with finishing up. What classes do you have left? Sure thing, I just posted it in the original post--at least the resume that got me the interview. It's an absurdly disappointing resume. Honestly if my lackluster resume could get me an interview, I'm convinced anyone could at least get interviews with a CS degree. Although some previous professional work experience may have helped me compared to a younger candidate that never entered the professional field, but I'm not really sure employers would even care, given how utterly irrelevant my work experience is.
+
+But, during the interviews, I did make sure to highlight experiences from work that demonstrated how I handle different scenarios and how my experiences would carry over to the role. E.g., communication skills working with highly vulnerable patient populations and how that translates to communicating with clients. I more than demonstrated I know how to navigate highly difficult and sensitive conversations.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Qweniden avatar
+Qweniden
+•
+1y ago
+Congrats. What job did you get?
+
+Why didn't you stay in physical therapy?
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Thank you! The role is called implementation consultant. It mostly involves configuring software for clients. A good mix of programming and working with clients.
+
+It's a bit long, but here's a copy and paste from a response I've previously posted:
+
+Mostly personal reasons. Although, it seems like a decent amount of PTs are also leaving the field but for more common, glaring issues such as:
+
+- declining reimbursement rates (leading to stagnant if not decreasing salaries).
+
+- because of the above, clinics are compensating by increasing volume of patients seen at a time (almost all outpatient clinics are committing medicare fraud to reach their numbers).
+
+- also because of point 1, employees are pressured to add on bullshit billing units (also medicare fraud), and expected to lengthen the duration of a patient's plan of care to increase retention.
+
+- clinicians are expected to complete documentation usually on their own time without pay (depending on the amount of patients seen, can be 1-2 hours of unpaid documentation at home and usually lunch break is spent cramming in documentation).
+
+- No upward growth. There aren't levels of growth like in software or other corporate fields. You can become a director with more responsibilities but same pay, maybe 10k more, while selling your soul and pressuring your employees to commit fraud.
+
+- insane debt. I have 200k of debt and I went to community college, the cheapest undergrad with scholarships, and the cheapest PT school in my state.
+
+- All of the above has culminated to the increasing levels of burnout in the profession.
+
+My personal reasons, in addition to the above:
+
+- tired of all the bullshit in the field. Most PTs pedal outdated information to patients, or straight up pseudoscientific treatments, and majority of continuing education courses fail to use good research (and there's data on all of this).
+
+- tired with the direction of research. It's the same shit studies repeating the same experiment with modified variables as if they think they just need to find the correct combination of variables to solve back pain.
+
+- realized I hate working with patients (I definitely appreciated some of them, though).
+
+- intellectually, the field is boring.
+
+- really, I think most of the field is bullshit with placebo responsible for the majority of outcomes but no one wants to ask these questions and it has only vilified and alienated me.
+
+Tech seems like a much better personality fit for me. I was more into PT for technical reasons, as I was passionate about science and research but realized how little it actually mattered in the field.
+
+
+Upvote
+12
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+5 more replies
+renton56
+•
+1y ago
+Hey congrats.
+
+I have a bs in exercise science and worked at a hospital then switched over to a power plant (couldn’t afford DPT program) because the pay was way better and it allowed me to travel internationally.
+
+Good job finishing up!
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Thanks! Wow interesting, what's your role at the power plant? A job that allows you to travel internationally sounds like an amazing opportunity. That was a good move to not pursue DPT school.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+2 more replies
+u/WheresTheSoylent avatar
+WheresTheSoylent
+•
+1y ago
+Thanks for sharing the resume. Interesting to see someone listing their non-tech experience. I'm in a similar boat, with military and other experience over the years and have been advised to minimize non-tech work experience on the resume. Probably should reconsider after seeing yours.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Yeah, I figured it's better to list some professional work experience than have nothing at all, and definitely not the odd jobs I've had throughout college. But if you have at least 2 or 3 tech-related roles, I think it's better to add that.
+
+A bit related, but I've read that at networking events or opportunities, be cautious when disclosing your past non-tech related experience, particularly if you're a career transitioner. Some people have reported success while for others, it was harmful, so I think you just need to know your audience.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ClickUp_App avatar
+u/ClickUp_App
+•
+Promoted
+
+What if AI ran the busywork?
+View More
+clickup.com
+Thumbnail image: What if AI ran the busywork?
+NeoKingSerenity
+•
+1y ago
+You are brilliant 😍
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+TY! <3
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+GravitationalOno
+•
+1y ago
+Why did you decide to leave PT, and with a doctorate at that? The pay and lifestyle are pretty good iirc.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+I listed the reasons in another comment in this thread, so you can take a look to get an idea. The pay is decent, but the ceiling is low and limited. For reference, my first tech offer already exceeded the best paying PT job I had. My first PT job salary was 70k, then 90k, then 93.6k. It caps at around 130k in California but otherwise is around 85-105k for most of the US. Work-life balance could be decent but it highly depends where you're at. It was bad for my first job (go figure 70k), great at the 2nd job, and decent at the 3rd job.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/BidShot4733 avatar
+BidShot4733
+•
+1y ago
+Congratulations on the job offer! Do you have experience in net, c# and sql? I’ve done some SQL and java through code academy but i always wonder what they look for, especially when you’re someone with no job experience.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Thanks! Only experience with SQL through the database classes. No experience with .net or C# but they didn't seem bothered by that. As long as you demonstrate that you can code in some language, most places don't seem to care that much if you know their specific stack. But you should at least be proficient in one language and have projects to show for it. Java is generally a good first language to learn. If you haven't already, create a github account, learn the ins and outs of git and github, start working on projects, and integrate them with your github.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Basic-Campaign-8449 avatar
+Basic-Campaign-8449
+•
+1y ago
+Did you do Leetcode during the last term and how long do you prepare for your BQ questions?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+I didn't really do any LC during the last term. For the interview, I looked up the company and found most of the technical and behavioral questions. The technical questions were very easy and would be considered LC easy. I prepared for the BQ questions the day before by reviewing different situations I've faced and how I handled them. I generally kinda wing them since I think I'm decent at talking my way through things.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/nexos-ai avatar
+u/nexos-ai
+•
+Promoted
+
+Turn raw marketing data into polished reports in minutes ✨
+Sign Up
+nexos.ai
+Thumbnail image: Turn raw marketing data into polished reports in minutes ✨
+u/nattack84 avatar
+nattack84
+•
+1y ago
+Are all classes proctored? I’m trying to figure out if I should find an in-person school instead.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+I take it you mean to ask if the exams are proctored--if so, then yes, all exams are proctored on video camera.
+
+IMO, if you have the opportunity, time, and money to complete an in-person program, I recommend going with that. I didn't have much of a choice except WGU.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/pavlovselephant avatar
+pavlovselephant
+•
+1y ago
+•
+Edited 1y ago
+Congrats, OP!
+
+What do you think was the clincher that landed you the job? I have an eerily similar resume (background in a "caring" profession, over-educated with multiple prior degrees completely unrelated to tech, similar tech stack, no real experience in the field other than a couple of projects I've done on my own), but I haven't gotten any bites yet even though I'm applying almost exclusively to internships and not even to real jobs at the moment.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Damn I typed out a whole comment and it didn't go through. Well here goes again:
+
+Thanks!
+
+First, before the initial interview, I made sure to research the company and find out everything I could about their interview questions. I pretty much knew all the technical questions they would ask. But it's not just about knowing the answers to the questions. It doesn't get stated enough, but you really have to show your thought process and how you arrive to a solution. I feigned ignorance of the questions and explicitly described how I arrived at each solution, even making intentional (and unintentional lol) mistakes.
+
+And something that I think clinched my final interview invite was in my thank you email after the initial interview. During the interview when they asked how I found out about the job, I had told them wrong information, but it was an honest mistake. I also asked about one of the company's unique benefits, in which my interviewer told me that the information had changed and they need to update the job listing but they didn't know which listing had the wrong information. So in my follow up email, I corrected myself on how I found out about the job and also included a screenshot of the job board with the outdated benefits information. This directly demonstrated a related interview question that was asked along the lines of "what would you do if the wrong information was provided to a client". It's one thing to say how you'd respond and another to show it in real time. I got an invite for the final interview just a few hours after I sent my follow up email the same day, even though I was originally told I wouldn't hear back for about a week.
+
+Lastly, and most importantly, I showed enthusiasm for the requirements of the job, which requires relocation every 2-4 years. Whether the requirements are in-office only, or remote only, or frequent travel, it probably goes without saying, but you should not show any resistance or hesitation towards the requirements and only show enthusiasm (assuming you want the job).
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/SaintlyDestiny avatar
+SaintlyDestiny
+•
+1y ago
+How was the relocation negotiation like? Was that already included or did you mention you would need it before you started?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+Oh that's already included, which I knew ahead of time. It's a 6k relocation bonus every time they relocate you. It's a good fit for me considering I'm a single man in my 30s with no plans for kids.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+2 more replies
+[deleted]
+•
+1y ago
+Congrats, you love to see it.
+
+Were you working full-time /part time during this?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/skepticalsojourner avatar
+skepticalsojourner
+OP
+•
+1y ago
+I was working full time during the first term. During the 2nd term, I was working full time for half of it, then a mix of part time and unemployed during the latter half. During the 3rd term, I was unemployed. Ironically, I was the most focused when I was studying and juggling my full time job in the first term.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Pistolaa
+•
+1y ago
+Bro look at your education ! Who wouldn’t hire you? lol
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+3 more replies
+Cracked_Guy
+•
+1y ago
+Bro locked in
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/timblew avatar
+timblew
+•
+1y ago
+You’re a beast dude. Congrats.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Mental-Budget9901
+•
+1y ago
+Awesome post, thanks for the info! It’s particularly pertinent since I also have a bio degree (premed too, but got burnt out by the end, can definitely relate to “studying for max grade vs enough to pass”).
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+sallydoe2020
+•
+1y ago
+Congrats on completing the degree and getting a technical job! Especially in today's market! And great post - love the organization! This is really helpful :)
+
+I also pivoted from clinical roles to a technical one. And only wished I had started earlier! The more we learn the more we earn! Hehe
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+NinjaPanda127
+•
+1y ago
+Congrats! This gives me a good baseline projection. I'm doing the BSCS toMSCS for CompSci and plan to dedicated 30-40 hrs a week to school.
+
+I'm coming in fresh with little to no transferring credits and currently not working, so I have the time and availability to hit this hard. One hiccups are if anything happens to hubs job or something happens to our kids (generally speaking) but this is indepth and great! Thanks for the insight!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+5 more replies
+False_Secret1108
+•
+1y ago
+How did it work in terms of getting a job before graduation? Like did your employer ask for degree verification but you didn't graduate yet?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Substantial_Bug4846 avatar
+Substantial_Bug4846
+•
+1y ago
+Dang I can't describe how useful this post was. It's like a distant cousin to my life. I have been considering going into PT school as well as pursuing a masters in CS at WGU. I started some pre med classes and a teacher had recommended staying in code and trying to use tech in medicine, in research, IT, or possibly AI. I'm older also and have a similar amount of education but in unrelated fields (psych / art). I have 5 years coding experience but I can't get through the auto filters for other jobs because I never finished my CS degree. I appreciate the thoughtful responses though. Most people don't put this much attention into their comments.
+
+What did you think of the classes? I'd love to have a breakdown of how they deliver content and what the assignments are like.
+
+Also, I read why you left PT and it's funny because I'm recovering from back injuries from sitting so long at my coding job / driving job and my PT's keep prescribing generic rehabs that do nothing. I think my piriformis is either over extended from stretching or just weak as hell but its been throbbing for a year and I've spent months digging through youtube trying to find an exercise or stretch that'll resolve the issue. You have such a useful mix of skills. If you ever start a youtube series let me know. I'd be an instant fan.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+6 more replies
+u/glazeddonutfr avatar
+glazeddonutfr
+•
+1y ago
+Please don't ever delete this post- I refer back to it frequently. Thanks for posting it.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+Glum-Indication3783
+•
+7mo ago
+Question: What did you use to track the hours and days you studied? Was it an app, or did you do this manually? I'm starting Dec 1st and would love to keep track of this to help keep myself accountable and to have clear numbers to determine if I actually spend the time I say I am studying
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/azreel187 avatar
+azreel187
+•
+7mo ago
+Hello, I saw on a previous post that you said a friend of yours got tickets that she didn’t order or pay for for Comic-Con I sent you an inbox. Could you look at it please and see if the name matches for somebody that I got charged for that I don’t know 😂
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+2 more replies

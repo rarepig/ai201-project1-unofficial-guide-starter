@@ -1,11 +1,5 @@
 # Project 1 Planning: The Unofficial Guide
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
----
 
 ## Domain
 
@@ -50,12 +44,6 @@ Each post contains short paragraphs covering different aspects of a course — d
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
-
 **Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:** 5
@@ -79,10 +67,6 @@ Each post contains short paragraphs covering different aspects of a course — d
 ---
 
 ## Anticipated Challenges
-
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
 
 1. **Inconsistent documents:** Reddit posts vary widely in length and structure. Short or off-topic chunks may pollute retrieval results.
 
@@ -109,10 +93,10 @@ flowchart LR
 Claude
 
 **Milestone 3 — Ingestion and chunking:**  
-I will give Claude the URLs in documents section in this planning.md file and ask it to make a script that saves contents as a .txt. Plus, I will provide it chunking strategy section and request it to implement chunk_text() with my specified chunk size and overlap.
+I will provide Claude the chunking strategy section and request it to implement chunk_text() with my specified chunk size and overlap.
 
 **Milestone 4 — Embedding and retrieval:**  
 I will give Claude the retrieval approach section and ask it to implement an embed_and_store() function and retrieve() function that returns top-5 relevant chunks with source and distance score.
 
 **Milestone 5 — Generation and interface:**  
-I will request Claude to make the system answer only from retrieved context. I will verify by asking an out-of-scope question and confirming the system declines to answer rather than hallucinating.
+I will give Claude the grounding requirement and ask it to implement a Groq API call with a prompt template that enforces context-only answers, and a Gradio interface with question input, answer output, and source display.

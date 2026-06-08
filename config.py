@@ -1,0 +1,7 @@
+DOCS_PATH = "documents"
+CHROMA_PATH = "chroma_db"
+CHROMA_COLLECTION = "wgu_courses"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 50
+N_RESULTS = 5

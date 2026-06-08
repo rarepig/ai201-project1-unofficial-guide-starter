@@ -1,0 +1,434 @@
+D284 Software Engineering might legitimately make me quit this degree.
+D284 Software Engineering
+Bull**** half raw class with zero guidance and instructors who also believe the same. When is enough enough and they fix ambiguous classes like this? As usual the CI's have zero contact with evaluations team and what they say is appropriate could be on an entirely different planet than the evaluators. Twice they have told me my content is sufficient and if it doesn't pass they'd be seriously stumped. Literal feedback I received on the CRM representations. "The document accurately describes representations. They Incorrectly describe the CRM." So they represent something and they are in the same document, but they they don't represent the CRM in the document. What else would the representations be talking about. They name the functions I stated in the descriptions.
+
+Should have been an easy class. 2 weeks tops, I seriously want to quit over this regurgitated low effort class. I guess as the webinars would suggest you do, "make it up, but harder."
+
+You almost need to contact a company like salesforce or oracle and sit through an orientation to even know what the CRM can do.
+
+
+Upvote
+21
+
+Downvote
+
+26
+Go to comments
+
+
+Share
+u/mintmobile avatar
+mintmobile
+•
+Promoted
+
+Get a premium wireless experience, without paying an arm and a tail, thanks to...technology.
+Shop Now
+mintmobile.com
+Thumbnail image: Get a premium wireless experience, without paying an arm and a tail, thanks to...technology.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+7___7
+•
+1y ago
+https://www.reddit.com/r/WGU_CompSci/comments/1c8yjsi/d284_software_engineering_walkthrough/
+
+
+
+Upvote
+18
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TheHitmonkey avatar
+TheHitmonkey
+OP
+•
+1y ago
+Boy wish I had found this highly self explanatory post prior to me posting on the very same website.
+
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Savings-Cry-3201 avatar
+Savings-Cry-3201
+•
+1y ago
+This kind of walkthrough is the only reason I’ve made it through the Java classes. WGU has legit made me hate Java by association.
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+7___7
+•
+1y ago
+In Google, if you type in ”course number wgu reddit prep” it likely has similar posts for all of the classes in the program. e.g. “d284 wgu reddit prep”, etc.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/abbylynn2u avatar
+abbylynn2u
+•
+1y ago
+Always search reddit at the top level wgu + d284. This brimgs up a posts across all the wgu subs, not just a program sub. Truely life saving.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Traditional-Run-6144 avatar
+Traditional-Run-6144
+•
+1y ago
+Dude it’s a PA just keep on correcting it’s not gonna kill you. You’re gonna look back and think wow that was dumb
+
+
+
+Upvote
+24
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+TheHitmonkey
+OP
+•
+1y ago
+Mysterious-Silver-21
+•
+1y ago
+If you have emails or anything that states something explicitly contrary to the evaluation then don’t hesitate to appeal and reach out to your mentor. I have had them throw whole PA out for using otf format after the requirements state in plain english that otf is an acceptable format. Sometimes the specificity of the requirements are over the top too and they’ll fail over something that seems downright pedantic
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TheHitmonkey avatar
+TheHitmonkey
+OP
+•
+1y ago
+Talked with Harlan, Tomeo, and now Lauren Provost.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Mysterious-Silver-21
+•
+1y ago
+Yeah I’m sorry. I’ve felt the frustration exactly. For your own sake try to get through it and put this course in your past. Once it’s out of the way you can get back to tackling the rest and I hope without friction
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+3 more replies
+u/coursera avatar
+u/coursera
+•
+Promoted
+
+Launch your career in software development with training from Amazon. Learn to manage databases, write code, and follow the SDLC process.
+Learn More
+coursera.org
+Thumbnail image: Launch your career in software development with training from Amazon. Learn to manage databases, write code, and follow the SDLC process.
+u/Significant-Syrup400 avatar
+Significant-Syrup400
+•
+1y ago
+You're going after a field where you'll mostly be dealing with problems that don't always have a clear answer and working through those to solve them with limited guidance.
+
+Don't get mad when your project has you doing exactly that.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TheHitmonkey avatar
+TheHitmonkey
+OP
+•
+1y ago
+Developers don’t write proposals. PMs do.
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/BlackhawkBolly avatar
+BlackhawkBolly
+•
+1y ago
+That is quite simply incorrect
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Significant-Syrup400 avatar
+Significant-Syrup400
+•
+1y ago
+Software Engineers, particularly as you move into a senior role, very often do write proposals and perform more executive functions.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+faolck
+•
+1y ago
+I thought I read somewhere that class takes 5 hours or less lol
+
+
+Upvote
+10
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+SpectralWolf776_
+•
+1y ago
+I Just took this class. I promise, just do the bare minimum! The reddit post you have already been given was Amazing, but also literally just don't over complicate it. I'm on (hopefully) my final term and that has been what has helped me the most - KISS - keep is stupid simple. Literally as long as you cover the basic requirements, you don't need to go over the top and make it fancy
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+bandog
+•
+1y ago
+Commenting for when is my time take it 0.0
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/azure avatar
+u/azure
+•
+Promoted
+
+Azure brings all your tools into one view, so you can stay in your flow and out of the tabs.
+Sign Up
+azure.microsoft.com
+Thumbnail image: Azure brings all your tools into one view, so you can stay in your flow and out of the tabs. 
+u/abbylynn2u avatar
+abbylynn2u
+•
+1y ago
+I will just add... you willhave days like this at work, with clients, with your team.. keep pushing💕🌸
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/No-Appeal-8995 avatar
+No-Appeal-8995
+•
+1y ago
+Using the guide posted earlier,
+
+https://www.reddit.com/r/WGU_CompSci/comments/1c8yjsi/d284_software_engineering_walkthrough/
+
+was really helpful for me as well as AI, to help me understand some of the requirements better. Your basically acting like your already a software engineer whose main responsibility is to design, develop and test software.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/nightowl1001001 avatar
+nightowl1001001
+•
+1y ago
+Have you done QA yet? Because that one was way worse for me. A CI told me someone he talked to was on their 7th revision.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Glass_Beyond8499 avatar
+Glass_Beyond8499
+•
+9mo ago
+Could anyone send me the course tasks / templates? Wanna get a jump start on this before I actually enroll in it next term!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

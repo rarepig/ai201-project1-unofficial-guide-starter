@@ -1,0 +1,194 @@
+Passed D281 Linux Foundation with a perfect score
+D281 Linux Foundations
+This exam wasn’t as challenging as some made it seem.
+
+To give you some context about my background, I’ve been in the IT industry for the last 27 years and I have been exposed to Linux through out my career.
+
+I didn’t use not use the study guide from WGU at all. I went straight to Jason Dion’s and Cisco’s practice exams until I was scoring close to perfect.
+
+
+Upvote
+13
+
+Downvote
+
+13
+Go to comments
+
+
+Share
+u/microsoft365 avatar
+microsoft365
+•
+Promoted
+
+Try Copilot in the apps you know. Start your one-month free trial today.
+Learn More
+m365copilot.com
+Thumbnail image: Try Copilot in the apps you know. Start your one-month free trial today.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/ACNite avatar
+ACNite
+•
+1y ago
+27 years experience and exposed to Linux. Yeah, I can see how that might make it a little easier lol. Congrats on the win, though.
+
+
+Upvote
+23
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/cambodia87 avatar
+cambodia87
+•
+1y ago
+Congrats! I just passed it the other day with a perfect score as well after hearing it was gonna be quite challenging.
+
+I've used command line on a mac for 10ish years as a web dev, but most of this exam was deeper in the weeds than I do in my day-to-day, with very specific command line and Linux history knowledge.
+
+I used the udemy (dion) practice exams you mentioned and the PDF exams from this notion document I found in another thread:
+
+https://katrinars.notion.site/Linux-Foundations-5d40875aa9ef47c4a7410d86ff1cccde
+
+I uploaded the pdf exams into chat gpt and had it quiz me on each one. Lots of these showed up on the final exam word-for-word, so I would definitely recommend them to others.
+
+For reference: I worked on this over 2 days - maybe 4-5 hours per day. I didn't feel super ready for the exam, but went for it, and I'm glad I didn't keep pushing more.
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Hadi-th
+•
+1y ago
+Is the test multiple choice or do we have to type things out like in D427 exam
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ebelange avatar
+ebelange
+OP
+•
+1y ago
+I had 2 questions where i had to type the answer.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/pharmacreation avatar
+pharmacreation
+•
+1y ago
+Took mine about 10 hours ago. It was all multiple choice, but there could have been a couple of fill in the blank questions. This was literally the test:
+
+https://www.reddit.com/r/WGU_CompSci/s/jUBRkNSBh3
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Ok-Tip-5943
+•
+1y ago
+Is this what you used to study?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+6 more replies
+u/Prince_DMS avatar
+Prince_DMS
+•
+1y ago
+imo this test is tough if you have never been exposed to Linux, but if you have used it even a little in the past it makes it so much easier
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CCNA_Expert
+•
+1y ago
+Great!!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

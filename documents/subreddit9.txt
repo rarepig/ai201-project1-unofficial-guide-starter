@@ -1,0 +1,541 @@
+Software Design and Quality Assurance D480 - Passed & Breakdown
+I passed D480 today. I wanted to break down the course a little bit since it is relatively new and the alumni that came before me have shared many tips that have helped me to pass my previous courses.
+
+r/WGU_CompSci - Software Design and Quality Assurance D480 - Passed & Breakdown
+New Course: This course is a new version of a course that used to require an OA. According to my CI, this course is only a few months old and the CIs are still trying to figure out what evaluators are looking for. Apparently the old course's OA was pretty hard, so the new structure should help with our acceleration.
+
+My study plan: I took a few hours to review everything available for the course.
+
+Course objectives
+
+PA Tasks
+
+Items in "Course Search", including 2 short videos describing the PA tasks - There are other webinars that were recorded for the previous version of the class. They cover different types of tests and the SDLC. Those were probably invaluable for the OA, but they are too long winded with this version's PA. Just use ChatGPT or Google.
+
+Reddit Posts (https://www.reddit.com/r/wgu_devs/comments/15fl85p/comment/jxmrf93/?utm_source=share&utm_medium=web2x&context=3 this one is useful)
+
+Textbook - I feel like I wasted my time trying to find info in the book. Just use ChatGPT or Google
+
+After reviewing, I dove into Task 1. I'm estimating it took me 4 hours or so because I was unsure of how to interpret some of the questions. Task 1 was returned for an error I'll discuss in a later section. I fixed it and resubmitted with success. Then I started Task 2 and passed the first time. It took probably 5 or 6 hours altogether. Just estimating.
+
+
+PA: There are 2 Tasks
+
+Task 1 seemed to be a lot like the Software Engineering PA (I took C188).
+
+Use the Reddit link above to see if you are interpreting the directions correctly.
+
+I had to resubmit due to D3. The directions state to describe the development environment for addressing the ticket. I described what I would need to fix the error, but that was on the front end. I was told I needed to describe back end info like database and hosting as well.
+
+The directions tend to be ambiguous, so when you don't know what to put, try to use ChatGPT to give you a list of options that could guide you. "What are common functional requirements for software development?" "What are common non-functional requirements for software development?"
+
+The directions often state that you are supposed to provide info in relation to the ticket. However, I think they switch the meaning of "ticket" seamlessly between the specific issue that has occurred and the entire program. Use your best judgment when to apply one interpretation versus the other
+
+Task 2
+
+Section A is basically a summary of Task 1
+
+Section B is basically just taking the requirements in Section A and specifying what you want to test. To be cautious, I looked up what kinds of tests would be appropriate for the requirements I was testing and included them in this section.
+
+Section C is probably the most straight forward because they actually tell you exactly what they want in the table. For "test owner" I simply listed their job title (i.e., developer, QA tester, etc.)
+
+For C2, I assumed that I was allowed to use my own reasoning when sequencing my testing. I stated the justification for my testing sequence, then made lists that were 3 or 4 steps to cover my testing needs. For each step, I said the expected result. For example: Test the system with one user. Result: The system was not slowed and a baseline performance was measured that could be compared to functionality when more users test the system at once.
+
+
+I hope this was useful to someone.
+
+
+Upvote
+77
+
+Downvote
+
+33
+Go to comments
+
+
+Share
+u/Hulu_Official avatar
+Hulu_Official
+•
+Promoted
+
+We're not the boss of you now, but you should see Malcolm in the Middle: Life's Still Unfair.
+Sign Up
+hulu.com
+Clickable image which will reveal the video player: We're not the boss of you now, but you should see Malcolm in the Middle: Life's Still Unfair.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+ladylight0717
+•
+2y ago
+Starting this tomorrow. Im four classes from the capstone and ive got 8 weeks left. Im losing motivation. I needed to see this.Thank you!!!!
+
+
+
+Upvote
+22
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Ok-Ease-3309
+OP
+•
+2y ago
+Go crush it and tell us about it!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Lopsided_Constant901
+•
+2y ago
+How'd it go?? I'm hoping to graduate in August/ September if not just before the end of year.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ladylight0717
+•
+2y ago
+It went great!!! I completed my Bachelor's with four weeks to spare and finished the whole thing in 5 months. You can do it!!
+
+
+Upvote
+16
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+8 more replies
+u/Smart_Substance_9698 avatar
+Smart_Substance_9698
+•
+2y ago
+Do you recall if you waited for task1 to be reviewed and passed before submitting task 2? just submitted task 1 tonight. I feel like I read somewhere that task1 had to be passed first but I cant seem to find that now..
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/boomkablamo avatar
+boomkablamo
+•
+2y ago
+Word of warning to those taking this course now, the evaluators are EXTREMELY picky. I've had my submission sent back 4 times now, even after having met with my instructor and going over my work prior to resubmission. The submissions get sent back based on criteria that isn't mentioned anywhere in the assignment or the rubric. EVERY single section/subsection has been sent back with feedback. They will only give feedback for a few sections at at time, and then they will say they are unable to review the rest of the sections due to them depending on previous sections. This means I have had to keep resubmitting with corrections just to receive feedback on sections that inevitably get sent back. Some people have said to keep submitting and making corrections based on feedback, but this will result in having to meet with an instructor to be able to resubmit after a few attempts. If you are going to go with this strategy I would recommend booking a lot of appointments ahead of time with the instructor, as it appears at the moment there is only 1 instructor for this course and they are usually booked out at least several days.
+
+I'm 85% through my CS degree and this is the most cumbersome and unnecessarily nitpicky PA I've ever done.
+
+
+
+Upvote
+15
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/gahitsu7 avatar
+gahitsu7
+•
+2y ago
+Yup. They’ve already handed Task 1 back to me twice. Ironically my specialty is QA. We usually fire people for being so overbearing, inflexible and demanding that they cause unnecessary delays. Just sayin’ 😎
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/nightowl1001001 avatar
+nightowl1001001
+•
+1y ago
+This is the only PA I haven't passed on my first try, and I only have 6 classes left in the program. Not only did I get it sent back, I got dinged in SO MANY places. I am experienced in the industry too, and I think maybe I just over thought this, but having to write this much bs for a simple bug is mind blowing.
+
+If anyone in the future is reading this, there are live instructor support times that are more frequent than individual appointments, so I would also try that if you don't want to wait a week. You can find this in the the course announcement section.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/lubinater avatar
+lubinater
+•
+1y ago
+After attempt 1 on task 2, it says I have to meet with an instructor 🙃. I passed task 1 in two attempts. This is the only class I've had an issue with. What's up with this class?
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+waywardcowboy
+•
+3y ago
+Thanks for sharing!
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/salesforce avatar
+u/salesforce
+•
+Promoted
+
+Hear from the world’s most influential voices, explore 1,600+ sessions and 150+ hands-on trainings to experience the innovations shaping what’s next. Register today for $1,499 and save $800 before the price goes up.
+Sign Up
+salesforce.com
+Thumbnail image: Hear from the world’s most influential voices, explore 1,600+ sessions and 150+ hands-on trainings to experience the innovations shaping what’s next. Register today for $1,499 and save $800 before the price goes up.
+[deleted]
+•
+3y ago
+Brooo I needed this a few days ago lol. I essentially did the same thing as you (Googling and asking ChatGPT). I agree the course material is very very similar to Software Engineering, though I took it at SDC. But yeah you're pretty spot on with the advise. Class can be completed in a night.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/DefinitelyIsNotKyle avatar
+DefinitelyIsNotKyle
+•
+2y ago
+Just passed this class yesterday using this post. All in all I probably put in 6-8 hours of work. Having passed plenty of IT Business courses (and software engineering right before), I went straight to the PA. I used chatgpt whenever I got stuck.
+
+Only thing I would add is that if you are unsure of something, hit submit and let the evaluator tell you if you are wrong.
+
+I got task 2 sent back 3x in the course of 3 days before passing, and each time I would fix the one thing they marked down in 10-15 minutes and resubmit.
+If you have other classes you can work on in the meantime, this can make you incredibly time efficient.
+
+Also, download grammarly and use it. The evaluators (as far as I can tell) will run your PA through grammarly and send it back if it has a low enough 'score'. I say this because my 3rd submission was for grammar, and all I did was download grammarly, make all the fixes grammarly reccomended, resubmitted it, and I passed. ^_^
+
+Hope this helps someone.
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FizzyBallBloop
+•
+2y ago
+hey you didn't read any of the course materials? just straight into the PA and assistance from ChatGPT?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/DefinitelyIsNotKyle avatar
+DefinitelyIsNotKyle
+•
+2y ago
+pretty much.
+It helped that I did software engineering class right before this.
+
+I may have used the course material for test examples, but idr.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Fit-Introduction7214 avatar
+Fit-Introduction7214
+•
+2y ago
+Great summary for how to approach D480! Got it done in a day. ChatGPT can take pdfs and docs now, so I recommend feeding it the background info pdf and then asking it questions to help you move through the requirements. If you want it to answer the questions, at least rewrite it in your own words for practice. A lot of dev work in a corporate environment includes work like this, so be prepared!
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FizzyBallBloop
+•
+2y ago
+no course material? just dive into PA with assistance from ChatGPT?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+MikesDTech
+•
+2y ago
+Don't use the course material for ANY class. It is all garbage. I have 5 classes left and have used the course material ZERO times.
+
+
+Upvote
+11
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/render-dev avatar
+u/render-dev
+•
+Promoted
+
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+Modernize your infrastructure and reduce cloud costs without sacrificing Heroku-like developer simplicity. Migrate from Heroku with near-zero downtime.
+render.com
+Learn More
+u/Smart_Substance_9698 avatar
+Smart_Substance_9698
+•
+2y ago
+Do you think we should wait for task1 to be reviewed and pass before submitting task2?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Ok-Ease-3309
+OP
+•
+2y ago
+Gosh, I'm not sure. It has been a while. I think I would wait to submit the 2nd PA, but I would have started working on it. I suppose it couldn't hurt to submit it if it's done though.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Smart_Substance_9698 avatar
+Smart_Substance_9698
+•
+2y ago
+Just sent you a quick a message
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ikilluboy2
+•
+2y ago
+this class is such a drag
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+•
+Edited 2y ago
+Please can somebody PM me a PDF with Task 1 requirements?
+I am wasting my time waiting for my mentor to add the course.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+godosomethingelse
+•
+2y ago
+It's the weekend, everybody needs time off.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

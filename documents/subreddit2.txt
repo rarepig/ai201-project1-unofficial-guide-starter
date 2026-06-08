@@ -1,0 +1,566 @@
+C950 - Data Structures and Algorithms II finished in 6 days with no python experience
+C950 Data Structures and Algorithms II
+This is my first post here but I've been lurking for the past couple years as I have been working through my degree. Upon completing this course I now only have 22CUs remaining and I finally am starting to feel like the end is in sight.
+
+I figured I'd leave my advice for the course on here as so many others have helped me.
+
+My exposure to python going into this course was about as low as possible. I just finished Data Structures and Algorithms I before starting this class which shows some python examples however this was my fist time writing in python which worried me. If you're in the same boat, don't let it worry you! It wasn't bad at all.
+
+I probably spent between 20 and 30 hours on this class and it probably could've been less. It's broken into 2 parts, a planning task (Task 1) and an implementation step (Task 2).
+
+I received an email with a lot of information upon starting the course, the most helpful part being them telling me to just try the minimum and if it gets sent back you'll get notes on exactly what to improve on, you get as many submissions as you need. So that's what I did.
+
+For task 1 I used the Task 1 FAQ (its actually just step by step instructions on how to meet every requirement) and the Task 1 template, both found in the Course Tips > C950 Supplemental Resources page. I wrote directly onto the template and that is what I submitted, made it easy to make sure I fulfilled all the requirements. I summited this task on my first day, needed revisions on C3 which I revised and then passed on my second attempt.
+
+Requirements A and B each only required a single sentence, identifying what is asked for. No explanation needed for those parts.
+
+B1 was also very simple. I used package objects to hold my data within the data structure so I simply explained that, again in a single sentence.
+
+C1 worried me as I have never written pseudo code before. Let me assure you that whatever you write could not look any worse than what I put together and it managed to get me a pass! Again if you're stressing just put together the minimum and send it in, see what happens. This section only needs to cover the algorithm you identified in requirement A, not your entire program. It also only needs to be detailed enough to follow the logic of what it will do. I used a greedy/ nearest neighbor algorithm and roughly outlined what it would do for this portion (15 lines of pseudo code).
+
+C2 took 2 sentences just describing what version of pycharm and python I will be using and some of my pc specs.
+
+C3 is the only requirement that did not pass on my first attempt and had notes returned saying it needed more. Ultimately, upon my fist submission I only had an idea of how my program would work so I didn't have much to put here. But after completing task 2 revising this section wasn't bad. On my submission that passed, I identified 3 major parts of my program(the algorithm in C1, the required hash structure, and the UI). I then listed the time and space complexity (those are two separate things) of each of those parts. Finally make sure to identify the space and time complexity of the entire program. In the end after my revisions, it was still only 4 sentences one for each part identified.
+
+C4, C5, and C6 took a short paragraph each. The task 1 FAQ is a great guide for these.
+
+C7 only required 2 sentences. One identifying what key I would use, and one with a short explanation of why that key would work.
+
+Don't overthink this task as it's meant to be planning and you're not locked into anything by bringing it up here. You can reference this task as much OR AS LITTLE as you wish when working on task 2.
+
+I used pycharm community edition to write my program for Task 2 and I would recommend it. This task is where I think I could have saved some time. I tried a couple ways of setting things up before ultimately getting everything working only to find the implementation guide that explained it all exactly as I had eventually done it.
+
+I definitely recommend looking over the implementation guides, also found in the supplemental resources page, and follow along with one of them. I used a nearest neighbor algorithm so rather than restating the implementation guide I'll just point out a few things I did differently.
+
+The following steps refer to steps in the nearest neighbor implementation guide.
+
+In step A, rather than creating CSV files, I manually imported the data from the package info and distance table provided. I'm sure it's not difficult to make the CSV files and there are videos on how to do that. I just opted to copy and paste the data into my project as I am extremely lazy and the csv files are not a requirement. I put the package data into package objects which were later imported into my hash table.
+
+For step B again rather than use CSV files to populate the 2D list I just copied and pasted data from the excel form.
+
+On step C I opted to load the trucks manually as there is no requirement to make an algorithm to load the trucks (however I'm sure it makes your program look more impressive). I created 3 lists of package id's and used that as an input to load the trucks and was able to make sure all requirements/special instructions were met.
+
+D is your actual delivery algorithm. My algorithm ended up matching the implementation guide very closely. Just going to the closest address and removing the package(s) that need to go there while also updating truck mileage and package status.
+
+For E I used a simple, while input is not 'exit', loop with an if, elif... for each of the options which are given to the user as an initial prompt when running.
+
+There is a linkedin learning course that is about 5 hours, however python is pretty user friendly in my opinion. I was able to get away with just the knowledge I learned in DS and Algorithms I along with some googling of python syntax.
+
+The screenshots for task 2 are mostly self explanatory. I did mine in the windows command prompt but I'm sure in pycharm would be fine too.
+
+To find other algorithms you could have used just look up possible solutions to the traveling salesmen problem as that is the problem this project covers.
+
+For other data structures I could've used I just looked back at Data Structures and Algorithms I there are lots to choose from.
+
+Hopefully this is helpful to some of you out there starting this course. Don't let it intimidate you! You got this!
+
+
+Upvote
+75
+
+Downvote
+
+34
+Go to comments
+
+
+Share
+u/Krisp_Technologies avatar
+Krisp_Technologies
+•
+Promoted
+
+The audio infra inside Vapi, LiveKit, and Daily is now a standalone SDK
+Learn More
+krisp.ai
+Clickable image which will reveal the video player: The audio infra inside Vapi, LiveKit, and Daily is now a standalone SDK
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+springer937
+•
+2y ago
+Thank you for this, I have been struggling with Task 2 for a while now.
+
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Specialist_Pull
+OP
+•
+2y ago
+No problem, I hope it helps
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ActionOk48243242 avatar
+ActionOk48243242
+•
+2y ago
+Thank You! This is amazing timing too. Finally wrapped up DM2 and just started DSA2 today!
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Specialist_Pull
+OP
+•
+2y ago
+Awesome, good luck!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/SnooHamsters6054 avatar
+SnooHamsters6054
+•
+1y ago
+How long did it take you to finish dm2? ...That class is cooking me rn :(
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+1y ago
+Comment deleted by user
+
+
+Upvote
+Downvote
+
+Reply
+
+Share
+
+8 more replies
+u/Bear_of_Wallstreet avatar
+Bear_of_Wallstreet
+•
+1y ago
+Took me 2 weeks on the dot to complete dm2. Really speeds up the process if you have a calculator that you can write programs into.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Smart_Substance_9698 avatar
+Smart_Substance_9698
+•
+2y ago
+Why does the implementation guide mention a Address csv? i've noticed that in some other guides to this course on reddit mention an address csv as well. The only csvs provided that I see are the distance table and the packages csv. no address csv. I'm really confused on how to check the distances between two locations and struggling to get my program to compare between current location and next location.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Specialist_Pull
+OP
+•
+2y ago
+Hey, I’ll shoot you a message!
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Far_Restaurant7666 avatar
+Far_Restaurant7666
+•
+2y ago
+I'm working on this class and struggling with the same thing. CI said that there's some webinar that shows of the implementation of this, but I can't seem to find it anywhere.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/coursera avatar
+u/coursera
+•
+Promoted
+
+Put yourself at the forefront of AI integration with IBM training as industries adopt and adapt to the latest advancements.
+Learn More
+coursera.org
+Thumbnail image: Put yourself at the forefront of AI integration with IBM training as industries adopt and adapt to the latest advancements.
+[deleted]
+•
+2y ago
+Which implementation dude are you referring to? The 2-opt or nearest neighbor version?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Specialist_Pull
+OP
+•
+2y ago
+I am referring to the nearest neighbor version.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/xxlibrarisingxx avatar
+xxlibrarisingxx
+•
+2y ago
+this class was ass. hardest one for me so far and almost 100 credits in
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Akuafina avatar
+Akuafina
+•
+2y ago
+Have you done dm2?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/xxlibrarisingxx avatar
+xxlibrarisingxx
+•
+2y ago
+Yes
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/StrictFlower avatar
+StrictFlower
+•
+2y ago
+Saved for when I get to this course. Thank you!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Levway avatar
+Levway
+•
+2y ago
+Was you all proctored when you take the OA?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/FederalSpinach99 avatar
+FederalSpinach99
+•
+2y ago
+Every OA is proctored
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Levway avatar
+Levway
+•
+2y ago
+Even the writing part also ? It’s all multi choice?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/squarespace avatar
+u/squarespace
+•
+Promoted
+
+Save Time with Squarespace
+Sign Up
+squarespace.com
+Thumbnail image: Save Time with Squarespace
+diegolovesyou
+•
+2y ago
+Nice!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+xry_nimrod
+•
+2y ago
+Hey so I'm currently doing the assessment task 2, I wanted to ask for the delivered and the en route statuses, did you change the statuses to en route when they were loaded onto the truck or when the truck was actively going to the specific package? I tried emailing the instructor but he hasn't replied so I wanted to see how ya'll did it.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+opafmoremedic
+•
+2y ago
+Not to necro a dead thread, and I'm sure you're past WGU at this point, but do I submit both tasks at the same time, or should I submit task 1, wait for it to be passed, then go through and submit task 2?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Fernancelot avatar
+Fernancelot
+•
+1y ago
+They can be submitted in any order. 1 then 2, 2 then 1, or, 1 and 2 at the same time.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+1 more reply
+u/Lost-Home4998 avatar
+Lost-Home4998
+•
+1y ago
+What do you turn in to be graded, A word document, or a repo showing your work with screen shots?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ViaJustinBruno avatar
+ViaJustinBruno
+•
+5mo ago
+Where can I find the implementation guide? I looked in WGU connect, but cannot find it? Thank you for your post.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
