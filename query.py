@@ -28,12 +28,12 @@ def ask(question):
     ])
     
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {question}"}
         ],
-        max_tokens=1000,
+        max_tokens=2000,
     )
     
     answer = response.choices[0].message.content

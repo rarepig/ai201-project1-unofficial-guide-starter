@@ -14,7 +14,7 @@ _collection = _client.get_or_create_collection(
 
 def embed_and_store(chunks):
     """Embed chunks and store in ChromaDB."""
-    _collection.add(
+    _collection.upsert(
         documents=[c["text"] for c in chunks],
         metadatas=[{"source": c["source"]} for c in chunks],
         ids=[c["chunk_id"] for c in chunks],
